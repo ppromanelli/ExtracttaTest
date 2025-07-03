@@ -1,0 +1,12 @@
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\bin\Debug\net9.0\ExtracttaTest.ServiceDefaults.deps.json
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\bin\Debug\net9.0\ExtracttaTest.ServiceDefaults.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\bin\Debug\net9.0\ExtracttaTest.ServiceDefaults.pdb
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\ExtracttaTest.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\ExtracttaTest.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\ExtracttaTest.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\ExtracttaTest.ServiceDefaults.AssemblyInfo.cs
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\ExtracttaTest.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\ExtracttaTest.ServiceDefaults.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\refint\ExtracttaTest.ServiceDefaults.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\ExtracttaTest.ServiceDefaults.pdb
+C:\Projetos\ExtracttaTest\ExtracttaTest.ServiceDefaults\obj\Debug\net9.0\ref\ExtracttaTest.ServiceDefaults.dll

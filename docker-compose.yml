@@ -1,0 +1,38 @@
+services:
+  extracttatest.webapi:
+    image: ${DOCKER_REGISTRY-}extracttatestwebapi
+    build:
+      context: .
+      dockerfile: ExtracttaTest.WebApi/Dockerfile
+    depends_on:
+      - sql
+    networks:
+      - my_network
+
+  sql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - "14333:1433"
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Extractta@123"
+    networks:
+      - my_network
+  
+  presentation:
+    container_name: angular-frontend
+    build:
+      context: ./ExtracttaTest.Presentation
+      dockerfile: Dockerfile
+    ports:
+      - "5009:5009"
+    volumes:
+      - ./ExtracttaTest.Presentation:/app
+      - /app/node_modules
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    networks:
+      - my_network
+
+networks:
+  my_network:

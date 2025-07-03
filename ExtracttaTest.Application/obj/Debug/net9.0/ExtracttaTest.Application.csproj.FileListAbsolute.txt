@@ -1,0 +1,15 @@
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\bin\Debug\net9.0\ExtracttaTest.Application.deps.json
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\bin\Debug\net9.0\ExtracttaTest.Application.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\bin\Debug\net9.0\ExtracttaTest.Application.pdb
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\ExtracttaTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\ExtracttaTest.Application.AssemblyInfoInputs.cache
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\ExtracttaTest.Application.AssemblyInfo.cs
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\ExtracttaTest.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\ExtracttaTest.Application.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\refint\ExtracttaTest.Application.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\ExtracttaTest.Application.pdb
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\ref\ExtracttaTest.Application.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\bin\Debug\net9.0\ExtracttaTest.Domain.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\bin\Debug\net9.0\ExtracttaTest.Domain.pdb
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\ExtracttaTest.Application.csproj.AssemblyReference.cache
+C:\Projetos\ExtracttaTest\ExtracttaTest.Application\obj\Debug\net9.0\Extractt.DE65061F.Up2Date

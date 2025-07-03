@@ -1,0 +1,987 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ExtracttaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\dtos\\segurocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\dtos\\segurocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\seguradofeatures\\dtos\\seguradocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\seguradofeatures\\dtos\\seguradocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\dtos\\segurocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\dtos\\segurocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\commands\\segurocreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\commands\\segurocreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D4EC-6715-48DC-B48A-884E7167D9C8}|ExtracttaTest.WebApi\\ExtracttaTest.WebApi.csproj|c:\\projetos\\extracttatest\\extracttatest.webapi\\controllers\\seguradocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90D4EC-6715-48DC-B48A-884E7167D9C8}|ExtracttaTest.WebApi\\ExtracttaTest.WebApi.csproj|solutionrelative:extracttatest.webapi\\controllers\\seguradocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B6CD34-4D5C-4583-97C9-5B3CD37B8A3D}|ExtracttaTest.Infrastructure\\ExtracttaTest.Infrastructure.csproj|c:\\projetos\\extracttatest\\extracttatest.infrastructure\\migrations\\initializer\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B6CD34-4D5C-4583-97C9-5B3CD37B8A3D}|ExtracttaTest.Infrastructure\\ExtracttaTest.Infrastructure.csproj|solutionrelative:extracttatest.infrastructure\\migrations\\initializer\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B6CD34-4D5C-4583-97C9-5B3CD37B8A3D}|ExtracttaTest.Infrastructure\\ExtracttaTest.Infrastructure.csproj|c:\\projetos\\extracttatest\\extracttatest.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B6CD34-4D5C-4583-97C9-5B3CD37B8A3D}|ExtracttaTest.Infrastructure\\ExtracttaTest.Infrastructure.csproj|solutionrelative:extracttatest.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D4EC-6715-48DC-B48A-884E7167D9C8}|ExtracttaTest.WebApi\\ExtracttaTest.WebApi.csproj|c:\\projetos\\extracttatest\\extracttatest.webapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90D4EC-6715-48DC-B48A-884E7167D9C8}|ExtracttaTest.WebApi\\ExtracttaTest.WebApi.csproj|solutionrelative:extracttatest.webapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D4EC-6715-48DC-B48A-884E7167D9C8}|ExtracttaTest.WebApi\\ExtracttaTest.WebApi.csproj|c:\\projetos\\extracttatest\\extracttatest.webapi\\controllers\\segurocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90D4EC-6715-48DC-B48A-884E7167D9C8}|ExtracttaTest.WebApi\\ExtracttaTest.WebApi.csproj|solutionrelative:extracttatest.webapi\\controllers\\segurocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\core\\models\\commons\\media-aritmetica.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\core\\models\\commons\\media-aritmetica.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\queries\\seguromediaaritmeticaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\queries\\seguromediaaritmeticaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\core\\models\\segurado.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\core\\models\\segurado.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D4EC-6715-48DC-B48A-884E7167D9C8}|ExtracttaTest.WebApi\\ExtracttaTest.WebApi.csproj|c:\\projetos\\extracttatest\\extracttatest.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90D4EC-6715-48DC-B48A-884E7167D9C8}|ExtracttaTest.WebApi\\ExtracttaTest.WebApi.csproj|solutionrelative:extracttatest.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\dtos\\seguromediaaritmeticadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\dtos\\seguromediaaritmeticadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\dtos\\segurodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\dtos\\segurodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\queries\\veiculocalculaseguroqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\queries\\veiculocalculaseguroqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\queries\\segurogetqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\queries\\segurogetqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B6CD34-4D5C-4583-97C9-5B3CD37B8A3D}|ExtracttaTest.Infrastructure\\ExtracttaTest.Infrastructure.csproj|c:\\projetos\\extracttatest\\extracttatest.infrastructure\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B6CD34-4D5C-4583-97C9-5B3CD37B8A3D}|ExtracttaTest.Infrastructure\\ExtracttaTest.Infrastructure.csproj|solutionrelative:extracttatest.infrastructure\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\commands\\veiculocreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\commands\\veiculocreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\core\\services\\veiculo.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\core\\services\\veiculo.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\core\\models\\base\\base.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\core\\models\\base\\base.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\core\\models\\veiculo.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\core\\models\\veiculo.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\app\\core\\models\\seguro.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\app\\core\\models\\seguro.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\extracttatest.presentation.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\extracttatest.presentation.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A86039-06E2-4774-82CD-ADE3A712EFA5}|docker-compose.dcproj|c:\\projetos\\extracttatest\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99A86039-06E2-4774-82CD-ADE3A712EFA5}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|c:\\projetos\\extracttatest\\extracttatest.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{646801C7-1F3F-41E0-A0BC-6F9360DCB852}|ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj|solutionrelative:extracttatest.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\queries\\segurolistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\queries\\segurolistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\queries\\veiculocalculaseguroquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\queries\\veiculocalculaseguroquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\commands\\segurocreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\commands\\segurocreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\queries\\segurogetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\queries\\segurogetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\segurofeatures\\queries\\segurolistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\segurofeatures\\queries\\segurolistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\dtos\\veiculocalculasegurodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\dtos\\veiculocalculasegurodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\dtos\\veiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\dtos\\veiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\queries\\veiculogetqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\queries\\veiculogetqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\queries\\veiculogetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\queries\\veiculogetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\queries\\veiculolistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\queries\\veiculolistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\commons\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\commons\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\dtos\\veiculocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\dtos\\veiculocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\dtos\\veiculocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\dtos\\veiculocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\Migrations\\20250703100436_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExtracttaTest.Infrastructure\\Migrations\\20250703100436_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\queries\\veiculolistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\queries\\veiculolistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|c:\\projetos\\extracttatest\\extracttatest.application\\features\\veiculofeatures\\commands\\veiculocreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E43297-071C-4455-B7A3-9FD507312055}|ExtracttaTest.Application\\ExtracttaTest.Application.csproj|solutionrelative:extracttatest.application\\features\\veiculofeatures\\commands\\veiculocreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9382A6E8-0BA1-4385-A3E4-4E8B4B2D4D95}|ExtracttaTest.Domain\\ExtracttaTest.Domain.csproj|c:\\projetos\\extracttatest\\extracttatest.domain\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9382A6E8-0BA1-4385-A3E4-4E8B4B2D4D95}|ExtracttaTest.Domain\\ExtracttaTest.Domain.csproj|solutionrelative:extracttatest.domain\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9382A6E8-0BA1-4385-A3E4-4E8B4B2D4D95}|ExtracttaTest.Domain\\ExtracttaTest.Domain.csproj|c:\\projetos\\extracttatest\\extracttatest.domain\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9382A6E8-0BA1-4385-A3E4-4E8B4B2D4D95}|ExtracttaTest.Domain\\ExtracttaTest.Domain.csproj|solutionrelative:extracttatest.domain\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9382A6E8-0BA1-4385-A3E4-4E8B4B2D4D95}|ExtracttaTest.Domain\\ExtracttaTest.Domain.csproj|c:\\projetos\\extracttatest\\extracttatest.domain\\segurado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9382A6E8-0BA1-4385-A3E4-4E8B4B2D4D95}|ExtracttaTest.Domain\\ExtracttaTest.Domain.csproj|solutionrelative:extracttatest.domain\\segurado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeguradoCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguradoFeatures\\Dtos\\SeguradoCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguradoFeatures\\Dtos\\SeguradoCreateDtoValidator.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguradoFeatures\\Dtos\\SeguradoCreateDtoValidator.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguradoFeatures\\Dtos\\SeguradoCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:29:19.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeguroCreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Commands\\SeguroCreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Commands\\SeguroCreateCommandHandler.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Commands\\SeguroCreateCommandHandler.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Commands\\SeguroCreateCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:36:45.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeguroCreateDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroCreateDto.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroCreateDto.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroCreateDto.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:13:15.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeguroCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroCreateDtoValidator.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroCreateDtoValidator.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:27:31.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\Migrations\\Initializer\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Infrastructure\\Migrations\\Initializer\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\Migrations\\Initializer\\DatabaseInitializer.cs",
+              "RelativeToolTip": "ExtracttaTest.Infrastructure\\Migrations\\Initializer\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:53:42.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "ExtracttaTest.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:02:51.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\app.component.html",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\app.component.html",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-03T13:38:19.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeguradoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.WebApi\\Controllers\\SeguradoController.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.WebApi\\Controllers\\SeguradoController.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.WebApi\\Controllers\\SeguradoController.cs",
+              "RelativeToolTip": "ExtracttaTest.WebApi\\Controllers\\SeguradoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:00:32.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\app.component.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T13:38:28.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VeiculoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.WebApi\\Controllers\\VeiculoController.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.WebApi\\Controllers\\VeiculoController.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.WebApi\\Controllers\\VeiculoController.cs",
+              "RelativeToolTip": "ExtracttaTest.WebApi\\Controllers\\VeiculoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:08:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeguroController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.WebApi\\Controllers\\SeguroController.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.WebApi\\Controllers\\SeguroController.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.WebApi\\Controllers\\SeguroController.cs",
+              "RelativeToolTip": "ExtracttaTest.WebApi\\Controllers\\SeguroController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:08:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\package.json",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\package.json",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\package.json",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\package.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T12:52:11.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\angular.json",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\angular.json",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\angular.json",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\angular.json",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwGUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T12:45:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\styles.css",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\styles.css",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\styles.css",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-03T17:32:35.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\.editorconfig",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\.editorconfig",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\.editorconfig",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\.editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-03T17:32:35.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\app.module.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T17:34:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "media-aritmetica.model.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\commons\\media-aritmetica.model.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\core\\models\\commons\\media-aritmetica.model.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\commons\\media-aritmetica.model.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\core\\models\\commons\\media-aritmetica.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T15:33:00.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T15:43:14.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SeguroMediaAritmeticaQuery.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroMediaAritmeticaQuery.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroMediaAritmeticaQuery.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroMediaAritmeticaQuery.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroMediaAritmeticaQuery.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:28:23.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "segurado.model.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\segurado.model.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\core\\models\\segurado.model.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\segurado.model.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\core\\models\\segurado.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T13:48:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.WebApi\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.WebApi\\Program.cs",
+              "RelativeToolTip": "ExtracttaTest.WebApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:25:38.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeguroMediaAritmeticaDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroMediaAritmeticaDto.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroMediaAritmeticaDto.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroMediaAritmeticaDto.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroMediaAritmeticaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:01:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SeguroDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroDto.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroDto.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroDto.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Dtos\\SeguroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:56:16.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VeiculoCalculaSeguroQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoCalculaSeguroQueryHandler.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoCalculaSeguroQueryHandler.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoCalculaSeguroQueryHandler.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoCalculaSeguroQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:58:01.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SeguroGetQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroGetQueryHandler.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroGetQueryHandler.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroGetQueryHandler.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroGetQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:54:39.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "ExtracttaTest.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:00:33.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VeiculoCreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Commands\\VeiculoCreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Commands\\VeiculoCreateCommandHandler.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Commands\\VeiculoCreateCommandHandler.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Commands\\VeiculoCreateCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:37:39.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "veiculo.service.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\services\\veiculo.service.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\core\\services\\veiculo.service.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\services\\veiculo.service.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\core\\services\\veiculo.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T14:07:10.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "veiculo.model.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\veiculo.model.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\core\\models\\veiculo.model.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\veiculo.model.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\core\\models\\veiculo.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T13:52:45.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "seguro.model.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\seguro.model.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\core\\models\\seguro.model.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\seguro.model.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\core\\models\\seguro.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T13:52:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "base.model.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\base\\base.model.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\app\\core\\models\\base\\base.model.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\app\\core\\models\\base\\base.model.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\app\\core\\models\\base\\base.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T13:50:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ExtracttaTest.Presentation",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\ExtracttaTest.Presentation.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-03T13:37:58.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\index.html",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\index.html",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\index.html",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-03T13:37:55.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\main.ts",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\src\\main.ts",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\src\\main.ts",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T13:37:49.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-03T12:46:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\Dockerfile",
+              "RelativeDocumentMoniker": "ExtracttaTest.Presentation\\Dockerfile",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Presentation\\Dockerfile",
+              "RelativeToolTip": "ExtracttaTest.Presentation\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-03T12:44:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAKEBAAAAAAAAAAD4v64BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-03T09:59:45.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SeguroCreateCommand.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Commands\\SeguroCreateCommand.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Commands\\SeguroCreateCommand.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Commands\\SeguroCreateCommand.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Commands\\SeguroCreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:28:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SeguroGetQuery.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroGetQuery.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroGetQuery.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroGetQuery.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroGetQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:28:53.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VeiculoCalculaSeguroQuery.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoCalculaSeguroQuery.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoCalculaSeguroQuery.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoCalculaSeguroQuery.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoCalculaSeguroQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:57:40.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SeguroListQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroListQueryHandler.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroListQueryHandler.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroListQueryHandler.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroListQueryHandler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:58:29.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "VeiculoCreateDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCreateDto.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCreateDto.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCreateDto.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:12:32.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VeiculoGetQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoGetQueryHandler.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoGetQueryHandler.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoGetQueryHandler.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoGetQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:12:39.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SeguroListQuery.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroListQuery.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroListQuery.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroListQuery.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\SeguroFeatures\\Queries\\SeguroListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:08:28.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VeiculoCalculaSeguroDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCalculaSeguroDto.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCalculaSeguroDto.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCalculaSeguroDto.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCalculaSeguroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:12:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VeiculoDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoDto.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoDto.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoDto.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:12:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "VeiculoGetQuery.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoGetQuery.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoGetQuery.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoGetQuery.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoGetQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:37:49.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Commons\\Utils.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Commons\\Utils.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Commons\\Utils.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Commons\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:45:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VeiculoListQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoListQueryHandler.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoListQueryHandler.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoListQueryHandler.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoListQueryHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:12:53.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VeiculoCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCreateDtoValidator.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCreateDtoValidator.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Dtos\\VeiculoCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:12:33.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250703100436_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\Migrations\\20250703100436_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Infrastructure\\Migrations\\20250703100436_InitialCreate.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Infrastructure\\Migrations\\20250703100436_InitialCreate.cs",
+              "RelativeToolTip": "ExtracttaTest.Infrastructure\\Migrations\\20250703100436_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:04:36.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "VeiculoListQuery.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoListQuery.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoListQuery.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoListQuery.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Queries\\VeiculoListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:37:54.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "VeiculoCreateCommand.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Commands\\VeiculoCreateCommand.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Commands\\VeiculoCreateCommand.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Application\\Features\\VeiculoFeatures\\Commands\\VeiculoCreateCommand.cs",
+              "RelativeToolTip": "ExtracttaTest.Application\\Features\\VeiculoFeatures\\Commands\\VeiculoCreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:37:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Domain\\Veiculo.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Domain\\Veiculo.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Domain\\Veiculo.cs",
+              "RelativeToolTip": "ExtracttaTest.Domain\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:37:29.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Seguro.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Domain\\Seguro.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Domain\\Seguro.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Domain\\Seguro.cs",
+              "RelativeToolTip": "ExtracttaTest.Domain\\Seguro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:37:24.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Segurado.cs",
+              "DocumentMoniker": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Domain\\Segurado.cs",
+              "RelativeDocumentMoniker": "ExtracttaTest.Domain\\Segurado.cs",
+              "ToolTip": "C:\\Projetos\\ExtracttaTest\\ExtracttaTest.Domain\\Segurado.cs",
+              "RelativeToolTip": "ExtracttaTest.Domain\\Segurado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:37:23.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

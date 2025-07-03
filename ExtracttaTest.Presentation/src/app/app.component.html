@@ -1,0 +1,71 @@
+<mat-toolbar color="primary">
+  <span>Extracta Seguros Automotivos Dashboard</span>
+</mat-toolbar>
+
+<div class="dashboard-container">
+
+  <mat-card class="highlight-card mat-elevation-z4">
+    <mat-card-title>Média Geral</mat-card-title>
+    <mat-card-content>
+      <h2 *ngIf="listMediaGeral.length > 0">
+        R$ {{ listMediaGeral[0]['mediaValorSeguro'] | number:'1.2-2' }}
+      </h2>
+    </mat-card-content>
+  </mat-card>
+
+  <div class="widgets-grid">
+    <mat-card class="mat-elevation-z2">
+      <mat-card-title>Média por Segurado</mat-card-title>
+      <mat-divider></mat-divider>
+      <mat-list>
+        <mat-list-item *ngFor="let item of listMediaSegurado">
+          {{ item.descricao }} — R$ {{ item.mediaValorSeguro | number:'1.2-2' }}
+        </mat-list-item>
+        <mat-list-item *ngIf="listMediaSegurado.length === 0">
+          Nenhum item encontrado.
+        </mat-list-item>
+      </mat-list>
+    </mat-card>
+
+    <mat-card class="mat-elevation-z2">
+      <mat-card-title>Média por Veículo</mat-card-title>
+      <mat-divider></mat-divider>
+      <mat-list>
+        <mat-list-item *ngFor="let item of listMediaVeiculo">
+          {{ item.descricao }} — R$ {{ item.mediaValorSeguro | number:'1.2-2' }}
+        </mat-list-item>
+        <mat-list-item *ngIf="listMediaVeiculo.length === 0">
+          Nenhum item encontrado.
+        </mat-list-item>
+      </mat-list>
+    </mat-card>
+  </div>
+
+  <div class="widgets-grid">
+    <mat-card class="mat-elevation-z2">
+      <mat-card-title>Lista de veiculos</mat-card-title>
+      <mat-divider></mat-divider>
+      <mat-list>
+        <mat-list-item *ngFor="let item of listVeiculo">
+          {{ item.id }} - {{ item.marcaModelo }} — R$ {{ item.valor | number:'1.2-2' }}
+        </mat-list-item>
+        <mat-list-item *ngIf="listVeiculo.length === 0">
+          Nenhum veiculo encontrado.
+        </mat-list-item>
+      </mat-list>
+    </mat-card>
+
+    <mat-card class="mat-elevation-z2">
+      <mat-card-title>Lista de Segurado</mat-card-title>
+      <mat-divider></mat-divider>
+      <mat-list>
+        <mat-list-item *ngFor="let item of listSegurado">
+          {{ item.id }} - {{ item.nome }} — {{ item.cpf }}
+        </mat-list-item>
+        <mat-list-item *ngIf="listSegurado.length === 0">
+          Nenhum segurado encontrado.
+        </mat-list-item>
+      </mat-list>
+    </mat-card>
+  </div>
+</div>

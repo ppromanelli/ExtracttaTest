@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rcR8IHhCjOmTL7BzynR159WyOwdjeuE3MXookVBUNkA=",
+  "Source": "ExtracttaTest.WebApi",
+  "BasePath": "_content/ExtracttaTest.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

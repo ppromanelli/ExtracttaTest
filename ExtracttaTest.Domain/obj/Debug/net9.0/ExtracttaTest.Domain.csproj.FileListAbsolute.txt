@@ -1,0 +1,11 @@
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\bin\Debug\net9.0\ExtracttaTest.Domain.deps.json
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\bin\Debug\net9.0\ExtracttaTest.Domain.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\bin\Debug\net9.0\ExtracttaTest.Domain.pdb
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\obj\Debug\net9.0\ExtracttaTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\obj\Debug\net9.0\ExtracttaTest.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\obj\Debug\net9.0\ExtracttaTest.Domain.AssemblyInfo.cs
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\obj\Debug\net9.0\ExtracttaTest.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\obj\Debug\net9.0\ExtracttaTest.Domain.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\obj\Debug\net9.0\refint\ExtracttaTest.Domain.dll
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\obj\Debug\net9.0\ExtracttaTest.Domain.pdb
+C:\Projetos\ExtracttaTest\ExtracttaTest.Domain\obj\Debug\net9.0\ref\ExtracttaTest.Domain.dll

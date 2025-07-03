@@ -1,0 +1,6 @@
+@ExtracttaTest.WebApi_HostAddress = http://localhost:5031
+
+GET {{ExtracttaTest.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
